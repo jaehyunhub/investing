@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="936a9c94-6f5d-40a4-b0dc-193824688b9b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/shareAlbum.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/shareAlbum.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/ShareAlbumApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/controller/AlbumController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/dto/AlbumRegisterDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/entity/Album$AlbumBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/entity/Album.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/entity/AlbumStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/entity/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/entity/MyLike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/entity/QAlbum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/entity/QComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/entity/QMyLike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/repository/AlbumRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/service/AlbumService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/album/service/AlbumServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/chat/entity/ChatMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/chat/entity/ChatRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/chat/entity/QChatMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/chat/entity/QChatRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/controller/GroupController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/dto/GroupAcceptionDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/dto/GroupCreateDto$GroupCreateDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/dto/GroupCreateDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/dto/GroupInvitationDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/entity/GroupCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/entity/GroupList$GroupListBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/entity/GroupList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/entity/Invitation$InvitationBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/entity/Invitation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/entity/InvitationStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/entity/MyGroup$MyGroupBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/entity/MyGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/entity/QGroupList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/entity/QInvitation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/entity/QMyGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/repository/GroupRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/repository/InvitationRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/repository/MyGroupRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/service/GroupService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/group/service/GroupServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/dto/MemberDto$MemberDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/dto/MemberDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/dto/MemberLoginDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/dto/MemberSearchResultDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/dto/SearchResultsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/entity/Member$MemberBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/entity/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/entity/MemberStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/entity/QMember.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/KakaoApiClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/KakaoAuthClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/KakaoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/KakaoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/dto/KakaoLoginUserDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/dto/KakaoTokenResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/dto/KakaoUserResponseDto$KakaoAccount$Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/dto/KakaoUserResponseDto$KakaoAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/dto/KakaoUserResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/mainPage/AlbumDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/mainPage/MemberInfoDto$MemberInfoDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/mainPage/MemberInfoDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/query/mainPage/MyGroupDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/repository/MemberReposiotryCustom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/repository/MemberRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/repository/MemberRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/service/MemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/domain/member/service/MemberServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/baseEntity/BaseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/baseEntity/BaseTimeEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/baseEntity/QBaseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/baseEntity/QBaseTimeEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/config/CorsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/config/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/config/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/jwt/CustomUserDetailsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/jwt/JwtAuthenticationFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/jwt/JwtToken$JwtTokenBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/jwt/JwtToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/jwt/JwtTokenProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/redis/RedisController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/redis/RedisService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/shareAlbum/shareAlbum/global/redis/RedisServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/shareAlbum/shareAlbum/ShareAlbumApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/shareAlbum/shareAlbum/domain/album/service/AlbumServiceImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/shareAlbum/shareAlbum/domain/group/service/GroupServiceImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/shareAlbum/shareAlbum/domain/member/service/MemberServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/shareAlbum/shareAlbum/entity/EntityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/shareAlbum/shareAlbum/domain/album/entity/QAlbum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/shareAlbum/shareAlbum/domain/album/entity/QComment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/shareAlbum/shareAlbum/domain/album/entity/QMyLike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/shareAlbum/shareAlbum/domain/chat/entity/QChatMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/shareAlbum/shareAlbum/domain/chat/entity/QChatRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/shareAlbum/shareAlbum/domain/group/entity/QGroupList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/shareAlbum/shareAlbum/domain/group/entity/QInvitation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/shareAlbum/shareAlbum/domain/group/entity/QMyGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/shareAlbum/shareAlbum/domain/member/entity/QMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/shareAlbum/shareAlbum/global/baseEntity/QBaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/shareAlbum/shareAlbum/global/baseEntity/QBaseTimeEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/02582d9bfe054a2ca12ad07102378c71_patrick-koschwanez-dpOgICkSHRc-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/04b78b30c2cc45c7ac36b83eafff7567_patrick-koschwanez-dpOgICkSHRc-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/22a07e4162714a5084971e71696decae_patrick-koschwanez-dpOgICkSHRc-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/39cb75ddb370414f8d1bb19367203809_malivez-0UUoz7ZBdtY-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/58d437f3f6a944a7962785bbf2b5dde0_nicolas-flor-sKM_RDfu8KU-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/8b0c8f374ac04bb4b6a6865eba6bc0be_patrick-koschwanez-dpOgICkSHRc-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/b5cf9154af474e788d9ccdf18a222141_dave-solce-nsi-dHHHCcw-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/MemberServiceImpl.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileQuerydsl/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/EntityTest.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/GroupServiceImplTest.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/MemberServiceTest.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/ShareAlbumApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/album/entity/Album.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/album/entity/AlbumStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/album/entity/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/album/entity/Like.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/album/entity/QAlbum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/album/entity/QComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/album/entity/QLike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/chat/entity/ChatMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/chat/entity/ChatRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/chat/entity/QChatMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/chat/entity/QChatRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/group/entity/Group.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/group/entity/GroupCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/group/entity/GroupList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/group/entity/Invitation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/group/entity/InvitationStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/group/entity/QGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/group/entity/QGroupList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/group/entity/QInvitation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/group/repository/GroupRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/member/entity/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/member/entity/QMember.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/member/repository/MemberRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/member/service/MemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/shareAlbum/shareAlbum/member/service/MemberServiceImple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/shareAlbum/shareAlbum/ShareAlbumApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/shareAlbum/shareAlbum/entity/EntityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/ShareAlbumApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/album/controller/AlbumController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/album/dto/AlbumRegisterDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/album/entity/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/album/entity/AlbumStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/album/entity/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/album/entity/MyLike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/album/repository/AlbumRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/album/service/AlbumService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/album/service/AlbumServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/chat/entity/ChatMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/chat/entity/ChatRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/controller/GroupController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/dto/GroupAcceptionDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/dto/GroupCreateDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/dto/GroupInvitationDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/entity/GroupCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/entity/GroupList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/entity/Invitation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/entity/InvitationStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/entity/MyGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/repository/GroupRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/repository/InvitationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/repository/MyGroupRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/service/GroupService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/group/service/GroupServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/controller/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/dto/MemberDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/dto/MemberLoginDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/dto/MemberSearchResultDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/dto/SearchResultsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/entity/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/entity/MemberStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/KakaoApiClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/KakaoAuthClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/KakaoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/KakaoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/dto/KakaoLoginUserDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/dto/KakaoTokenResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/query/kakaoLogin/dto/KakaoUserResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/query/mainPage/AlbumDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/query/mainPage/MemberInfoDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/query/mainPage/MyGroupDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/repository/MemberReposiotryCustom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/repository/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/repository/MemberRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/service/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/domain/member/service/MemberServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/baseEntity/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/baseEntity/BaseTimeEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/config/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/config/OpenFeignConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/config/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/jwt/CustomUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/jwt/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/jwt/JwtToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/jwt/JwtTokenProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/redis/RedisController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/redis/RedisService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shareAlbum/shareAlbum/global/redis/RedisServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/02582d9bfe054a2ca12ad07102378c71_patrick-koschwanez-dpOgICkSHRc-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/04b78b30c2cc45c7ac36b83eafff7567_patrick-koschwanez-dpOgICkSHRc-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/22a07e4162714a5084971e71696decae_patrick-koschwanez-dpOgICkSHRc-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/39cb75ddb370414f8d1bb19367203809_malivez-0UUoz7ZBdtY-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/58d437f3f6a944a7962785bbf2b5dde0_nicolas-flor-sKM_RDfu8KU-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/8b0c8f374ac04bb4b6a6865eba6bc0be_patrick-koschwanez-dpOgICkSHRc-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/b5cf9154af474e788d9ccdf18a222141_dave-solce-nsi-dHHHCcw-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/shareAlbum/shareAlbum/ShareAlbumApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/shareAlbum/shareAlbum/domain/album/service/AlbumServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/shareAlbum/shareAlbum/domain/group/service/GroupServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/shareAlbum/shareAlbum/domain/member/service/MemberServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/shareAlbum/shareAlbum/entity/EntityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/components/syukaworld/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/components/syukaworld/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/syukaworld/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/syukaworld/page.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2rLyTPJTaqzOjbx1OAO888ctE9C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jaehyunkim/Desktop/Study/investing/backend",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "profiler.jvm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="InvestingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="investing.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="investing.example.investing.InvestingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="936a9c94-6f5d-40a4-b0dc-193824688b9b" name="Changes" comment="" />
+      <created>1736352657580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736352657580</updated>
+      <workItem from="1736352658898" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
